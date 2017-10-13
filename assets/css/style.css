@@ -1,0 +1,47 @@
+body {
+	background: #ffffff; 
+	background-image: url("../images/background.jpg");
+}
+
+.mainTitle {
+	background: orange;
+	color: white;
+}
+
+.instructions {
+	background: tan;
+	color: green;
+	padding: 30px;
+}
+
+.goal {
+	background: green;
+	color: pink;
+	font-size: 300%;
+	font-weight: bold;
+}
+
+.scores {
+	background: lightblue;
+	padding-right: 10px;
+}
+
+.gems {
+	background: white;
+	align-content: center;
+}
+
+.scoreHeader {
+	width: 50%;
+	background: green;
+	color: lightgreen;
+}
+
+#runningTotal {
+	margin-left: 0px;
+	width: 50%;
+	background: green;
+	color: white;
+	font-weight: bold;
+	font-size: 300%;
+}
